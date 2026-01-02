@@ -1,4 +1,4 @@
-# dépôt Thomas DIDIER
+# dépôt Git Thomas DIDIER
 
 Étudiant en première année de cycle ingénieur en mathématiques appliquées à l'INSA de Rennes.
 
