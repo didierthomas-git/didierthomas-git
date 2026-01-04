@@ -4,4 +4,4 @@
 
 ## Projets principaux
 - [Probabilites](S5-Probabilites) - 2 Travaux Pratiques sur des Probabilités
-- [Méthodes Numériques](Methodes-Numeriques) - 2 Travaux Pratiques sur des Méthodes Numériques du Linéaire
+- [Méthodes Numériques](https://github.com/didierthomas-git/Methodes-Numeriques) - 2 Travaux Pratiques sur des Méthodes Numériques du Linéaire
